@@ -7,7 +7,7 @@
   ]
   "firmware": {
     "version": "1.0.0",
-    "url": "https://github.com/aelatik/reefflow-releases/raw/refs/heads/main/reefflow-1.0.0.bin",
+    "url": "http://updates.reefgear.nl/docs/reefflow-1.0.0.bin",
     "sha256": "OPTIONEEL"
   }
 }
